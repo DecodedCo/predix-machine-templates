@@ -6,7 +6,3 @@
 	path = predix-machine-template-adapter-edison
 	url = https://github.com/PredixDev/predix-machine-template-adapter-edison.git
 	branch = develop
-[submodule "predix-machine-template-adapter-pi"]
-	path = predix-machine-template-adapter-pi
-	url = https://github.com/PredixDev/predix-machine-template-adapter-pi.git
-	branch = develop
