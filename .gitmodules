@@ -9,3 +9,4 @@
 [submodule "predix-machine-template-adapter-pi"]
 	path = predix-machine-template-adapter-pi
 	url = https://github.com/GEXLP/predix-machine-template-adapter-pi
+	branch = master
